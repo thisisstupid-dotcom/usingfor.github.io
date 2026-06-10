@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Three strategic judgements from a Telstra versus Aussie Broadband analysis: a strength (capability integration as a defensible moat), a gap (authenticity hitting a scaling ceiling), and an assumption (that the funnel still begins at Google).">
+<title>Three strategic judgements</title>
+<style>
+.bg{fill:#0A0D14}
+.card{fill:#141923;stroke:rgba(255,255,255,0.08);stroke-width:1}
+.eye{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:13px;letter-spacing:2.5px}
+.verdict{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:12px;letter-spacing:2px}
+.meta{font-family:'Space Mono',ui-monospace,monospace;fill:#5a6372;font-size:10px;letter-spacing:1.5px}
+.tag{font-family:'Space Mono',ui-monospace,monospace;fill:#5a6372;font-size:10px;letter-spacing:1px}
+.h{font-family:'Space Grotesk','Segoe UI',system-ui,sans-serif;fill:#F5F7FA;font-weight:500}
+.val{font-family:'Inter',system-ui,sans-serif;fill:#C7CDD6;font-size:13px}
+.mut{font-family:'Inter',system-ui,sans-serif;fill:#9AA4B2;font-size:12px}
+</style>
+<rect class="bg" width="800" height="400" rx="10"/>
+<text x="32" y="40" class="eye">FIGURE 03 — THREE STRATEGIC JUDGEMENTS</text>
+<text x="32" y="62" class="mut">Telstra × Aussie Broadband — Australian telco digital marketing, 2026</text>
+
+<rect class="card" x="30" y="92" width="235" height="272" rx="10"/>
+<line x1="42" y1="94" x2="253" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="48" y="122" class="verdict">STRENGTH</text>
+<text x="48" y="152" class="h" font-size="16">Capability integration</text>
+<text x="48" y="174" class="h" font-size="16">is a defensible moat</text>
+<line x1="48" y1="198" x2="247" y2="198" stroke="rgba(255,255,255,0.08)"/>
+<text x="48" y="224" class="meta">EVIDENCE</text>
+<text x="48" y="243" class="val">Components 1 &amp; 3</text>
+<text x="48" y="277" class="meta">CONCEPT</text>
+<text x="48" y="296" class="val">Resource-based view</text>
+<text x="48" y="314" class="val">(Barney, 1991)</text>
+<text x="48" y="346" class="tag">TELSTRA</text>
+
+<rect class="card" x="285" y="92" width="235" height="272" rx="10"/>
+<line x1="297" y1="94" x2="508" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="303" y="122" class="verdict">GAP</text>
+<text x="303" y="152" class="h" font-size="16">Authenticity hits</text>
+<text x="303" y="174" class="h" font-size="16">a scaling ceiling</text>
+<line x1="303" y1="198" x2="502" y2="198" stroke="rgba(255,255,255,0.08)"/>
+<text x="303" y="224" class="meta">EVIDENCE</text>
+<text x="303" y="243" class="val">Component 2</text>
+<text x="303" y="277" class="meta">CONCEPT</text>
+<text x="303" y="296" class="val">Brand-engagement</text>
+<text x="303" y="314" class="val">decay (Hollebeek)</text>
+<text x="303" y="346" class="tag">AUSSIE BROADBAND</text>
+
+<rect class="card" x="540" y="92" width="235" height="272" rx="10"/>
+<line x1="552" y1="94" x2="763" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="558" y="122" class="verdict">ASSUMPTION</text>
+<text x="558" y="152" class="h" font-size="16">The funnel still</text>
+<text x="558" y="174" class="h" font-size="16">begins at Google</text>
+<line x1="558" y1="198" x2="757" y2="198" stroke="rgba(255,255,255,0.08)"/>
+<text x="558" y="224" class="meta">EVIDENCE</text>
+<text x="558" y="243" class="val">Component 1</text>
+<text x="558" y="277" class="meta">CONCEPT</text>
+<text x="558" y="296" class="val">Generative engine</text>
+<text x="558" y="314" class="val">optimisation</text>
+<text x="558" y="346" class="tag">BOTH BRANDS</text>
+</svg>

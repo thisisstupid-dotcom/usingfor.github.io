@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="Sequenced three-sided onboarding: stage one DGR charity anchors, stage two corporate sponsors, stage three community activation, each gated before the next begins.">
+<title>Sequenced three-sided onboarding</title>
+<style>
+.bg{fill:#0A0D14}
+.card{fill:#141923;stroke:rgba(255,255,255,0.08);stroke-width:1}
+.eye{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:13px;letter-spacing:2.5px}
+.lblc{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:11px;letter-spacing:2px}
+.tim{font-family:'Space Mono',ui-monospace,monospace;fill:#5a6372;font-size:10px;letter-spacing:1px}
+.h{font-family:'Space Grotesk','Segoe UI',system-ui,sans-serif;fill:#F5F7FA;font-weight:500}
+.desc{font-family:'Inter',system-ui,sans-serif;fill:#9AA4B2;font-size:12px}
+.mut{font-family:'Inter',system-ui,sans-serif;fill:#9AA4B2;font-size:12px}
+</style>
+<rect class="bg" width="800" height="320" rx="10"/>
+<text x="32" y="40" class="eye">FIGURE 01 — SEQUENCED THREE-SIDED ONBOARDING</text>
+<text x="32" y="62" class="mut">Resolving the cold-start — seed the cheapest side first, gate each stage on a signal.</text>
+<line x1="250" y1="170" x2="285" y2="170" stroke="#22D3EE" stroke-width="2"/>
+<path d="M285,165 L293,170 L285,175 Z" fill="#22D3EE"/>
+<line x1="515" y1="170" x2="550" y2="170" stroke="#22D3EE" stroke-width="2"/>
+<path d="M550,165 L558,170 L550,175 Z" fill="#22D3EE"/>
+<rect class="card" x="30" y="92" width="210" height="152" rx="10"/>
+<line x1="42" y1="94" x2="228" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="48" y="122" class="lblc">STAGE 1</text>
+<text x="48" y="150" class="h" font-size="16">DGR charity anchors</text>
+<text x="48" y="178" class="desc">Secure 3–5 verified charity</text>
+<text x="48" y="196" class="desc">partners — low cost,</text>
+<text x="48" y="214" class="desc">mission-aligned</text>
+<text x="135" y="272" text-anchor="middle" class="tim">YEAR 0 · Q1–Q2</text>
+<rect class="card" x="295" y="92" width="210" height="152" rx="10"/>
+<line x1="307" y1="94" x2="493" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="313" y="122" class="lblc">STAGE 2</text>
+<text x="313" y="150" class="h" font-size="16">Corporate sponsors</text>
+<text x="313" y="178" class="desc">Pitch verified supply as</text>
+<text x="313" y="196" class="desc">proof — twelve-month</text>
+<text x="313" y="214" class="desc">contracts secured</text>
+<text x="400" y="272" text-anchor="middle" class="tim">YEAR 0 Q3 – YEAR 1 Q1</text>
+<rect class="card" x="560" y="92" width="210" height="152" rx="10"/>
+<line x1="572" y1="94" x2="758" y2="94" stroke="#22D3EE" stroke-width="3"/>
+<text x="578" y="122" class="lblc">STAGE 3</text>
+<text x="578" y="150" class="h" font-size="16">Community activation</text>
+<text x="578" y="178" class="desc">Open events to the public</text>
+<text x="578" y="196" class="desc">once supply and demand</text>
+<text x="578" y="214" class="desc">sides are committed</text>
+<text x="665" y="272" text-anchor="middle" class="tim">YEAR 1 · Q2 ONWARDS</text>
+</svg>

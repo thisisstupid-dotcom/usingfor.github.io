@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" role="img" aria-label="B2B acquisition funnel for the Impact-Exposed segment: awareness, marketing-qualified lead, sales-qualified lead, close, feeding a renewal loop, beside a unit-economics panel showing an LTV to CAC ratio of 5.4 to 1.">
+<title>B2B acquisition funnel and unit economics</title>
+<style>
+.bg{fill:#0A0D14}
+.card{fill:#141923;stroke:rgba(255,255,255,0.08);stroke-width:1}
+.eye{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:13px;letter-spacing:2.5px}
+.lblc{font-family:'Space Mono',ui-monospace,monospace;fill:#22D3EE;font-size:11px;letter-spacing:2px}
+.msub{font-family:'Space Mono',ui-monospace,monospace;fill:#5a6372;font-size:10px;letter-spacing:1px}
+.h{font-family:'Space Grotesk','Segoe UI',system-ui,sans-serif;fill:#F5F7FA;font-weight:500}
+.mut{font-family:'Inter',system-ui,sans-serif;fill:#9AA4B2}
+.stage{font-family:'Space Grotesk','Segoe UI',system-ui,sans-serif;fill:#06343c;font-weight:500;font-size:15px}
+.ssub{font-family:'Space Mono',ui-monospace,monospace;fill:#0b3d45;font-size:9px;letter-spacing:0.5px}
+.rowL{font-family:'Inter',system-ui,sans-serif;fill:#9AA4B2;font-size:14px}
+.rowV{font-family:'Space Mono',ui-monospace,monospace;fill:#F5F7FA;font-size:14px}
+</style>
+<rect class="bg" width="800" height="460" rx="10"/>
+<text x="32" y="40" class="eye">FIGURE 02 — B2B ACQUISITION FUNNEL</text>
+<text x="32" y="62" class="mut" font-size="12">Impact-Exposed segment — cold prospect to twelve-month contract.</text>
+<polygon points="50,88 430,88 402,144 78,144" fill="#22D3EE" fill-opacity="0.82"/>
+<text x="240" y="112" text-anchor="middle" class="stage">Awareness</text>
+<text x="240" y="129" text-anchor="middle" class="ssub">SEO + LINKEDIN THOUGHT LEADERSHIP</text>
+<polygon points="78,148 402,148 368,204 112,204" fill="#22D3EE" fill-opacity="0.82"/>
+<text x="240" y="173" text-anchor="middle" class="stage">Marketing-qualified lead</text>
+<text x="240" y="190" text-anchor="middle" class="ssub">GATED ESG CASE STUDIES</text>
+<polygon points="112,208 368,208 332,264 148,264" fill="#22D3EE" fill-opacity="0.82"/>
+<text x="240" y="233" text-anchor="middle" class="stage">Sales-qualified lead</text>
+<text x="240" y="250" text-anchor="middle" class="ssub">DISCOVERY CALL → PROPOSAL</text>
+<polygon points="148,268 332,268 300,324 180,324" fill="#22D3EE" fill-opacity="1"/>
+<text x="240" y="293" text-anchor="middle" class="stage">Close</text>
+<text x="240" y="310" text-anchor="middle" class="ssub">12-MONTH CONTRACT</text>
+<line x1="240" y1="324" x2="240" y2="342" stroke="#22D3EE" stroke-width="2"/>
+<path d="M235,342 L240,350 L245,342 Z" fill="#22D3EE"/>
+<rect x="40" y="352" width="400" height="50" rx="10" fill="#101620" stroke="#22D3EE" stroke-opacity="0.5"/>
+<text x="60" y="378" class="lblc">↻ RENEWAL LOOP</text>
+<text x="60" y="394" class="msub">IMPACT REPORTS → CO-BRANDING → ANNUAL SUMMIT</text>
+<text x="40" y="426" class="mut" font-size="11">Renewal rate is the leading indicator — LTV expansion, not new acquisition.</text>
+<rect class="card" x="470" y="88" width="290" height="312" rx="10"/>
+<text x="492" y="120" class="lblc">UNIT ECONOMICS</text>
+<text x="492" y="168" class="h" font-size="40" fill="#22D3EE">5.4 : 1</text>
+<text x="492" y="192" class="msub">LTV : CAC</text>
+<line x1="492" y1="210" x2="740" y2="210" stroke="rgba(255,255,255,0.08)"/>
+<text x="492" y="244" class="rowL">Lifetime value</text>
+<text x="740" y="244" text-anchor="end" class="rowV">$16,125</text>
+<text x="492" y="282" class="rowL">Acquisition cost</text>
+<text x="740" y="282" text-anchor="end" class="rowV">$3,000</text>
+<text x="492" y="320" class="rowL">Entry tier (Bronze)</text>
+<text x="740" y="320" text-anchor="end" class="rowV">$5,000</text>
+<text x="492" y="356" class="msub">BLENDED · 75% RENEWAL · 3-YR TENURE</text>
+<text x="492" y="382" class="mut" font-size="11">Built for lifetime value,</text>
+<text x="492" y="398" class="mut" font-size="11">not first-year revenue.</text>
+</svg>
